@@ -31,7 +31,7 @@ st.markdown("그림판에 **0~9** 숫자를 그리세요.")
 # ---------------------------
 canvas_result = st_canvas(
     fill_color="#000000",
-    stroke_width=16,
+    stroke_width=13,
     stroke_color="#FFFFFF",
     background_color="#000000",
     width=280,
