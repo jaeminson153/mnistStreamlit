@@ -4,4 +4,5 @@ tensorflow
 numpy
 matplotlib
 pillow
+scipy
 scikit-image
