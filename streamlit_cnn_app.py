@@ -78,7 +78,7 @@ def preprocess_and_predict(image_arr):
 # Streamlit UI
 # ----------------------------
 st.set_page_config(page_title="웹캠 숫자 인식기", layout="centered")
-st.title("📷 웹캠 숫자 인식기 (MNIST 기반 최종 개선 버전)")
+st.title("📷 웹캠 숫자 인식기@@ (MNIST 기반 최종 개선 버전)")
 st.markdown("흰 종이에 **굵은 검정 펜**으로 숫자를 쓰고 웹캠으로 촬영해주세요.")
 
 image_data = st.camera_input("숫자를 촬영하세요:")
