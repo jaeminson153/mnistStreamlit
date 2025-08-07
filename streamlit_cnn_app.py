@@ -32,7 +32,7 @@ model = tf.keras.models.load_model(model_path) if model_path else None
 # ----------------------------
 # 타이틀
 # ----------------------------
-st.title("웹캠 숫자 인식기 (MNIST 기반)")
+st.title("웹캠 숫자 인식기2 (MNIST 기반)")
 st.markdown("흰 종이에 검은색 펜으로 0~9 숫자를 작성 후 웹캠으로 촬영해보세요.")
 
 
